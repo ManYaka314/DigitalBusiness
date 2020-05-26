@@ -1,2 +1,1 @@
-# DigitalBusiness
-Test task for DigitalBusiness
+# DB
